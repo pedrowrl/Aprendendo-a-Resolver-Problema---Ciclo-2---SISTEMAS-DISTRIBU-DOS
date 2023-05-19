@@ -1,3 +1,6 @@
+# Aluno: Pedro Wilson Rodrigues de Lima.
+# Nº de Matrícula: 2020267.
+
 import socket
 import json
 
